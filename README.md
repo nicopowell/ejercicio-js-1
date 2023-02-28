@@ -6,7 +6,7 @@ Este repositorio contiene los primeros pasos en la práctica con Javascript
 
 ## Ejercicios
 
-[Link al documento](https://nicopowell-panaderiacocu.netlify.app/)
+[Link al documento](https://docs.google.com/document/d/1uK1b6C5CoplLNj2N7rkqzMs4-NrY9oeIUAfhpeDqfK8/edit?usp=sharing)
 
 ## Cómo utilizar el repositorio 💻
 
